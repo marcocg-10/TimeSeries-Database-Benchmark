@@ -1,0 +1,10 @@
+ERROR 1815 (HY000) at line 1: Internal error: TupleAnnexStep::executeParallelOrderBy() MCS-2018: Not enough memory to process the LIMIT.  Consider raising TotalUmMemory or reducing memory usage.
+ERROR 1815 (HY000) at line 1: Internal error: TupleAnnexStep::executeParallelOrderBy() MCS-2018: Not enough memory to process the LIMIT.  Consider raising TotalUmMemory or reducing memory usage.
+ERROR 1815 (HY000) at line 1: Internal error: TupleAnnexStep::executeParallelOrderBy() MCS-2018: Not enough memory to process the LIMIT.  Consider raising TotalUmMemory or reducing memory usage.
+ERROR 1815 (HY000) at line 1: Internal error: TupleAnnexStep::executeParallelOrderBy() MCS-2018: Not enough memory to process the LIMIT.  Consider raising TotalUmMemory or reducing memory usage.
+ERROR 1815 (HY000) at line 1: Internal error: TupleAnnexStep::executeParallelOrderBy() MCS-2018: Not enough memory to process the LIMIT.  Consider raising TotalUmMemory or reducing memory usage.
+ERROR 1815 (HY000) at line 1: Internal error: TupleAnnexStep::executeParallelOrderBy() MCS-2018: Not enough memory to process the LIMIT.  Consider raising TotalUmMemory or reducing memory usage.
+
+real	0m26.298s
+user	0m0.126s
+sys	0m0.322s

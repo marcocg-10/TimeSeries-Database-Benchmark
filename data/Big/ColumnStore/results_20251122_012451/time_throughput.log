@@ -1,0 +1,14 @@
+ERROR 1815 (HY000) at line 1: Internal error: TupleAnnexStep::executeParallelOrderBy() MCS-2018: Not enough memory to process the LIMIT.  Consider raising TotalUmMemory or reducing memory usage.
+ERROR 1815 (HY000) at line 1: Internal error: TupleAnnexStep::executeParallelOrderBy() MCS-2018: Not enough memory to process the LIMIT.  Consider raising TotalUmMemory or reducing memory usage.
+ERROR 1815 (HY000) at line 1: Internal error: TupleAnnexStep::executeParallelOrderBy() MCS-2018: Not enough memory to process the LIMIT.  Consider raising TotalUmMemory or reducing memory usage.
+ERROR 1815 (HY000) at line 1: Internal error: TupleAnnexStep::executeParallelOrderBy() MCS-2018: Not enough memory to process the LIMIT.  Consider raising TotalUmMemory or reducing memory usage.
+ERROR 1815 (HY000) at line 1: Internal error: TupleAnnexStep::executeParallelOrderBy() MCS-2018: Not enough memory to process the LIMIT.  Consider raising TotalUmMemory or reducing memory usage.
+ERROR 1815 (HY000) at line 1: Internal error: InetStreamSocket::readToMagic: Remote is closed
+ERROR 1815 (HY000) at line 1: Internal error: InetStreamSocket::readToMagic: Remote is closed
+ERRORERROR 1815 (HY000) at line 1: Internal error: InetStreamSocket::readToMagic: Remote is closed
+ 1815 (HY000) at line 1: Internal error: InetStreamSocket::readToMagic: Remote is closed
+ERROR 1815 (HY000) at line 1: Internal error: InetStreamSocket::readToMagic: Remote is closed
+
+real	1m23.463s
+user	0m0.090s
+sys	0m1.315s
